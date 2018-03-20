@@ -10,7 +10,7 @@ Please ensure to provide literature-evidence for suggested changes or expansions
 
 Please note that this is a project funded by research grants. Consequently, addressing issues may take time, depending on the complexity of the issue as well as the extent of supporting information provided by the user.
 
-PLEASE NOTE THAT PULL-REQUESTS WILL BE AUTOMATICALLY CLOSED WITHOUT MERGING, as we believe that editing SBML files for the purpose of generating high-quality metabolic reconstructions are inadequate. 
+PLEASE NOTE THAT PULL-REQUESTS WILL BE AUTOMATICALLY CLOSED WITHOUT MERGING, as VMH.life already implements version control via a database implementation. 
 
 Please cite:
 Magnusdottir, S., Heinken, A., Kutt, L., Ravcheev, D.A., Bauer, E., Noronha, A., Greenhalgh, K.,
